@@ -1,0 +1,38 @@
+BODY
+{
+scrollbar-face-color: #FFFFFF;
+scrollbar-highlight-color: #eeeeee;
+scrollbar-3dlight-color: #006666;
+scrollbar-darkshadow-color: #006666;
+scrollbar-shadow-color: #eeeeee;
+scrollbar-arrow-color: #000000;
+scrollbar-track-color: #eeeeee;
+}
+
+
+
+A.pbsnormal:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #006666; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.pbsnormal:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #006666; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.pbsnormal:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR:#000000; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION:underline}
+A.pbsnormal:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #006666; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+
+A.pbs2:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #006666; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.pbs2:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #006666; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.pbs2:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR:#000000; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION:underline}
+A.pbs2:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #006666; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+
+.PBSboxes {  font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #eeeeee; border: #006666; color: #000033; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; font-size: 10px; font-style: normal; font-weight: normal}
