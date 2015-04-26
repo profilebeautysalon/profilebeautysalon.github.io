@@ -1,0 +1,16 @@
+@font-face {
+  font-family: anke;
+  src: url(AnkeCall.ttf);
+}
+h1, .center {
+  text-align: center;
+}
+body {
+  background-color: white;
+  background-attachment: fixed;
+  background-repeat: none;
+  background-image: -linear-gradient(#ffa796, white);
+  background-image: -webkit-linear-gradient(#ffa796, white);
+  background-image: -moz-linear-gradient(#ffa796, white);
+  background-image: -o-linear-gradient(#ffa796, white);
+}
